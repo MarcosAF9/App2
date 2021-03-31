@@ -21,8 +21,8 @@ export const Container = styled.div`
   }
 
   .boxBranco {
-    width: 22%;
-    height: 26%;
+    width: 422px;
+    height: 252px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,8 +37,8 @@ export const Container = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 22%;
-    height: 8%;
+    width: 425px;
+    height: 80px;
 
   }
 
