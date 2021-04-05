@@ -58,6 +58,15 @@ export const Container = styled.div`
     margin-top: -20px;
   }
 
+  .botao {
+    color: white;
+    background-color: #5e92f8;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    margin-top: -20px;
+    outline: none;
+  }
 
 
 `;

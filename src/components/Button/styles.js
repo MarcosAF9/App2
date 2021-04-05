@@ -10,7 +10,7 @@ export const Container = styled.div`
     border-radius: 5px;
     border: none;
     font-size: 16px;
-    margin: 13px;
+    margin: 3px;
     outline: none;
   }
 
